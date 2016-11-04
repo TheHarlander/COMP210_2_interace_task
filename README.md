@@ -11,5 +11,6 @@ The Vr and AR market is ever expanding and progressing exceedingly. There is a l
 
 
 ###Outline an initial design in detail
-The initial design is somewhat subject to change as the game is made and new minigames require additional information on screen but for the initial base ui there are a few key components. The first is a real life stick or pole of some kind that the user holds in real life that swings the oar in game, with this i could have a device of some kind that when you wing and hit something it vibrates. Next is the health bar at the top of the screen and I would also put in a timer of sorts as each mini game will be have a time limit on it.
+The initial design is somewhat subject to change as the game is made and new minigames require additional information on screen but for the initial base ui there are a few key components. The first is a real life stick or pole of some kind that the user holds in real life that represents the oar in game which the player swings in game, with this i could have a device of some kind that when you swing and hit something it vibrates. Another haptic I could use is a fan and some salt water or river smelling water to allow the player to feel they are heading down a lake. 
+the in game UI will only have a couple components. The first is the  health bar at the top of the screen and I would also put in a timer in the top right to show how long the player has left.
 ![alt tag](https://github.com/TheHarlander/COMP210_2_interace_task/blob/master/Part-A/basicUIDesign.png?raw=true)
