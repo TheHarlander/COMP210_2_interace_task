@@ -20,6 +20,9 @@ For the staff I will be most likely be using Arduino to simulate the hitting of 
 
 ####references
 http://www.marketsandmarkets.com/PressReleases/haptic-technology.asp
+
 https://www.arduino.cc/
+
 https://docs.unrealengine.com/latest/INT/Engine/UMG/QuickStart/index.html 
+
 http://www.digi-capital.com/news/2015/04/augmentedvirtual-reality-to-hit-150-billion-disrupting-mobile-by-2020/#.WAIVUegrKhc 
