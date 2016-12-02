@@ -21,6 +21,8 @@ For the staff I will be most likely be using Arduino to simulate the hitting of 
 ###Production
 The first idea that stuck was the idea of using the vr controllers to row in this rowing simulator. With most kinds of small boats oars are used to move the boat along the water so this was going to be the basis of my design. After moving forward into the game project I was set on making the controller for the right handed vive controller which would be used to hit away the enemies in the game. For this prototype I made it our of cardboard so I could actually test out the controller with the vive controller, the pole was unable to fit nicely due to the trigger. To get around this I cut a small hole in the side so it would fit snuggly, to stop the user from pushing the controller too far up or misusing the hole I put an extruding cardboard and tape to remind the user to stop at this point.
 The next problem was that the controller felt loose and could easily fall off the oar at anytime, I got around this by adding a strap of sorts for the vive controller to the oar.I then drew the logo on so that the user could see where to put it over.
+
+
 ![alt tag](https://github.com/TheHarlander/COMP210_2_interace_task/blob/master/Images/Oar.png?raw=true)
 ![alt tag](https://github.com/TheHarlander/COMP210_2_interace_task/blob/master/Images/TriggerHole.png?raw=true)
 ![alt tag](https://github.com/TheHarlander/COMP210_2_interace_task/blob/master/Images/ViveWithBrace.png?raw=true)
