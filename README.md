@@ -21,12 +21,12 @@ For the staff I will be most likely be using Arduino to simulate the hitting of 
 ###Production
 The first idea that stuck was the idea of using the vr controllers to row in this rowing simulator. With most kinds of small boats oars are used to move the boat along the water so this was going to be the basis of my design. After moving forward into the game project I was set on making the controller for the right handed vive controller which would be used to hit away the enemies in the game. For this prototype I made it our of cardboard so I could actually test out the controller with the vive controller, the pole was unable to fit nicely due to the trigger. To get around this I cut a small hole in the side so it would fit snuggly, to stop the user from pushing the controller too far up or misusing the hole I put an extruding cardboard and tape to remind the user to stop at this point.
 The next problem was that the controller felt loose and could easily fall off the oar at anytime, I got around this by adding a strap of sorts for the vive controller to the oar.I then drew the logo on so that the user could see where to put it over.
-[image]
+
 
 ###Haptics
 I wanted the user to enjoy different types of haptics throughout their experience of playing the game. Firstly I thought of an unusual method of using a fan placed in front of the player to simulate the feel of them actually moving speedly across the water. The sensation of the cool air brushing past their skin would hopefully immerse them deeper. But then I realised I could put some scented water in front of the fan, not so that it would blow water at them but to blow the smell of lake/river water hitting another sense to immerse the player. An unexpected haptic happened during testing of the oar, not only does the weight of the oar itself give the feel of you actually holding something but when you were to swing the oar to hit the enemies in game the wind resistence allowed it to give the player the sense of actually swinging it in game. The final haptic I wanted to add but was unable as the parts for it that were being supplied by the university never arrived, was vibration. Although the Vive controllers come with a vibration feature integrated, I wanted to do it myself and give a greater vibration than the one supplied. 
 Below is a picture of the arduino circuit I was going to use if the parts came, I went online and used an emulator that allowed me to create the board virtually.
-[image]
+
 In theory what I want to happen is for the vibration to happen at the time of impact between the oar and the cat. Playing around with the emulator I was able to get it to vibrate on and off every second with a simple motor pin high, motor pin low loop. To achieve it in my game I would do something along the lines of when a cat is destroyed by the oar it sends a letter to the arduino that then signals the motor pin to turn to high then off again.
 
 
